@@ -27,7 +27,7 @@ situations. Below are the list of projects as well as their respective concepts.
 
 <h4>Project 4 - Bruin Tour</h4>
 <ul>
-  <li>Pathfinding Algorithms</li>
+  <li>Pathfinding</li>
   <li>Hash Tables</li>
   <li>Data Management</li>
   <li>Algorithmic Efficiency</li>
