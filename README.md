@@ -20,7 +20,7 @@ situations. Below are the list of projects as well as their respective concepts.
 
 <h4>Project 3 - Marble Madness</h4>
 <ul>
-  <li>Overloading/li>
+  <li>Overloading</li>
   <li>Inheritance</li>
   <li>Polymorphism</li>
 </ul>
